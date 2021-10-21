@@ -3,6 +3,6 @@ User play against the computer which randomly generates rock paper scissors with
 The user must score 11 points in order to win the game.
 
 
-<img src="Screenshot 2021-10-21 120855.jpg">
-<img src="2.jpg">
-<img src="3.jpg">
+<img src="RockPaperScissor\images\Screenshot 2021-10-21 120855.jpg">
+<img src="RockPaperScissor\images\2.jpg">
+<img src="RockPaperScissor\images\3.jpg">
